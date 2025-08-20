@@ -6,11 +6,11 @@ Breve descripcion del proyecto 1-2 lineas explicativas
 # Características
 ---
 
-🟢Catalogo de productos con filtro
-🟢Carrito de compras funcional
-🟢Almacenamiento en Local Storage
-🟢Diseño responsive
-🟢Busqueda de productos
+- 🟢Catalogo de productos con filtro
+- 🟢Carrito de compras funcional
+- 🟢Almacenamiento en Local Storage
+- 🟢Diseño responsive
+- 🟢Busqueda de productos
 
 # Demo
 ---
@@ -25,6 +25,10 @@ Breve descripcion del proyecto 1-2 lineas explicativas
 - Local Storage
 - Node js
 
+# Librerias 
+---
+
+SweetAlert2
 
 # Prerequisitos
 ---
